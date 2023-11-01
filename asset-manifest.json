@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Myportfolio./static/css/main.7e5917e4.css",
+    "main.js": "/Myportfolio./static/js/main.c2214e2e.js",
+    "static/media/image.png": "/Myportfolio./static/media/image.4ae163e6509640e1ffd5.png",
+    "static/media/screenshot.png": "/Myportfolio./static/media/screenshot.613b87e7a2c7c2873efb.png",
+    "static/media/Realestate.png": "/Myportfolio./static/media/Realestate.59f389ee5442d4b71c0e.png",
+    "static/media/react.png": "/Myportfolio./static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/aws.png": "/Myportfolio./static/media/aws.95bdee6b9922c9b94fd5.png",
+    "static/media/node.png": "/Myportfolio./static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/Myportfolio./static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/Myportfolio./static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Myportfolio./static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Myportfolio./static/media/css.69a82c2d9e45c933a9cb.png",
+    "index.html": "/Myportfolio./index.html",
+    "main.7e5917e4.css.map": "/Myportfolio./static/css/main.7e5917e4.css.map",
+    "main.c2214e2e.js.map": "/Myportfolio./static/js/main.c2214e2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e5917e4.css",
+    "static/js/main.c2214e2e.js"
+  ]
+}
